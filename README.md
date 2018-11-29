@@ -1,4 +1,4 @@
-Unity ZX-Spectrum Screen Loader v.0.2
+Unity ZX-Spectrum Screen Loader v.0.2  
 The package simulates the download of the ZX-Spectrum pictures with tape.
 Attention! This is not an emulator of the ZX-spectrum platform, it just draws on the screen and sounds something like zx-spectrum did.
 
